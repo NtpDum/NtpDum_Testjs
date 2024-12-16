@@ -1,0 +1,3 @@
+[submodule "NtpDum"]
+	path = NtpDum
+	url = git://github.com/NtpDum/NtpDum.git
